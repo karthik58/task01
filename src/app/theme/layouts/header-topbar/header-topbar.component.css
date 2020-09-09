@@ -1,0 +1,33 @@
+.form-control-lg, .input-group-lg>.form-control, .input-group-lg>.input-group-append>.btn, .input-group-lg>.input-group-append>.input-group-text, .input-group-lg>.input-group-prepend>.btn, .input-group-lg>.input-group-prepend>.input-group-text{
+    padding: 0.8rem 1rem;
+    font-size: 12px;
+}
+
+.m-subheader-search{
+    padding: 1.3rem;
+}
+
+.m-input-icon.m-input-icon--fixed-large{
+    width: 199px;
+    padding-left: 20px;
+}
+
+.m-input-icon.m-input-icon--fixed{
+    padding-left: 5px;
+}
+
+.m-header .m-topbar {
+    height: 70%;
+}
+
+.m-topbar {
+    float: left;
+}
+
+.m-brand {
+    width: 120px;
+}
+
+.btn.m-btn--custom{
+    padding: .5rem 2rem;
+}
